@@ -1,0 +1,51 @@
+/* common shared styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 30px;
+
+}
+
+/* header related styles */
+.header {
+    background-color: #E554731A;
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+
+}
+
+.banner-content {
+    max-width: 900px;
+}
+
+.banner-heading {
+    color: #272727;
+    font-size: 70px;
+    font-weight: 800;
+}
+
+.banner-pic {
+    width: 500px;
+    vertical-align: bottom;
+    padding-bottom: 0%;
+
+
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 30px;
+}
